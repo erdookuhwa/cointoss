@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-size: large;
+  background-color: bisque;
+  margin: 100px;
+  padding: 100px;
+  border: chocolate;
+}
+
+.btn {
+  margin: 12px;
+  background-color: honeydew;
+  border-radius: 10px;
+  font-size: large;
+  display: inline-block;
+  box-shadow: 2px 2px 5px rgb(5, 5, 3);
+  width: 150px;
+}
